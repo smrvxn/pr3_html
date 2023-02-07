@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Расписание</title>
+	</head>
+
+	<body>
+	
+	<h1><center><img src="public_html/picture/8.gif">Расписание занятий</center></h1>
+	
+	<center><table bordercolor="330066" border="1" bgcolor="CCCCFF">
+	<tr>
+		<td rowspan="2">№ пары</td>
+		<td colspan="6" bgcolor="9999FF">Нечетная неделя</td>
+		<td colspan="6" bgcolor="CC99FF">Четная неделя</td>
+	</tr>
+	<tr>
+		<td>Понедельник</td>
+		<td>Вторник</td>
+		<td>Среда</td>
+		<td>Четверг</td>
+		<td>Пятница</td>
+		<td>Суббота</td>
+		<td>Понедельник</td>
+		<td>Вторник</td>
+		<td>Среда</td>
+		<td>Четверг</td>
+		<td>Пятница</td>
+		<td>Суббота</td>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td colspan="12">
+		<marquee direction="right" bgcolor="FFFFCC">
+			В расписании возможны изменения
+		</marquee>
+		</td>
+	</tr>
+	</table></center>
+	
+	
+	</body>
+</html>
